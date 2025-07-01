@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postboard/static/css/main.6c080044.css",
+    "main.js": "/postboard/static/js/main.2a07cfe1.js",
+    "index.html": "/postboard/index.html",
+    "main.6c080044.css.map": "/postboard/static/css/main.6c080044.css.map",
+    "main.2a07cfe1.js.map": "/postboard/static/js/main.2a07cfe1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c080044.css",
+    "static/js/main.2a07cfe1.js"
+  ]
+}
