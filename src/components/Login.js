@@ -23,7 +23,7 @@ const Login = ({onLogin}) => {
   }
   return (
     <div id="login">
-      <h2>Loin Page</h2>
+      <h2>Login Page</h2>
       <form onSubmit={handleSubmit}>
         <input 
           type="email"
